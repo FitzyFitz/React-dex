@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PokeCell from './PokeCell';
 import PokeList from './PokeList';
+import DetailView from './DetailView';
 import './styles/App.css'
 class App extends Component {
   constructor() {
@@ -11,7 +12,8 @@ class App extends Component {
   render() {
     return (
       <div className = "App">
-        <PokeList></PokeList>
+        <PokeList />
+        <DetailView />
       </div>
     );
   }
