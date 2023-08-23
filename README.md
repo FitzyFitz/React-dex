@@ -22,9 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O React-Dex é um Pokedex.
-
-- [Acesse o projeto finalizado, online](https://FitzyFitz.github.io/React-dex)
+O React-Dex é um Pokedex desenvolvido com React.
 
 ---
 
